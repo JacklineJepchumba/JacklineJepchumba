@@ -2,6 +2,21 @@
 
 <img src="banner.svg" width="100%" alt="Terminal window reading: Data & AI Product Engineering. ingest, load, transform, test, orchestrate, serve. A star schema diagram sits on the right.">
 
+</div>
+
+<h3 align="center">Data & AI Product Engineer</h3>
+
+<p align="center">
+  Building reliable data systems that turn raw signals into trusted products.
+</p>
+
+<p align="center">
+  <a href="mailto:kiptumjackline77@gmail.com"><img src="contact-mail.svg" width="160" alt="Email: kiptumjackline77@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/jackline-kiptum-b4a23b2a8/"><img src="contact-linkedin.svg" width="160" alt="LinkedIn: jackline-kiptum-b4a23b2a8"></a>
+</p>
+
+<div align="center">
+
 <img src="h-pipeline.svg" width="100%" alt="pipeline: how data moves">
 <img src="pipeline.svg" width="100%" alt="INGEST (Python, SQLAlchemy) to LOAD (PostgreSQL, MySQL) to TRANSFORM (dbt Core) to TEST (dbt tests) to ORCHESTRATE (Airflow) to SERVE (Metabase, Grafana, Power BI)">
 
@@ -25,7 +40,5 @@ waiting for the first workflow run
 <div align="center">
 
 <img src="h-contact.svg" width="100%" alt="contact: open channels">
-<a href="mailto:kiptumjackline77@gmail.com"><img src="contact-mail.svg" width="100%" alt="Email: kiptumjackline77@gmail.com"></a>
-<a href="https://www.linkedin.com/in/jackline-kiptum-b4a23b2a8/"><img src="contact-linkedin.svg" width="100%" alt="LinkedIn: jackline-kiptum-b4a23b2a8"></a>
 
 </div>
