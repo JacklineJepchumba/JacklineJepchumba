@@ -2,9 +2,9 @@
 
   <img src="banner.svg" width="100%" alt="Banner: Data & AI Product Engineering" />
 
-  <h1 align="center" style="margin: 18px 0 10px; font-size: 2.2rem; font-weight: 800; letter-spacing: 0.04em; color: #7dd3fc;">
+  <!--<h1 align="center" style="margin: 18px 0 10px; font-size: 2.2rem; font-weight: 800; letter-spacing: 0.04em; color: #7dd3fc;">
     Jackline Kiptum
-  </h1>
+  </h1> -->
 
   <h3 align="center" style="margin: 0 0 18px; font-size: 1.35rem; color: #cbd5e1;">
     Data & AI Product Engineer
