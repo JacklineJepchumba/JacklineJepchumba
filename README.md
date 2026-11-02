@@ -1,10 +1,10 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #e2e8f0; background: linear-gradient(135deg, #0b1020 0%, #111827 100%); border-radius: 18px; padding: 28px 24px; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.45);">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #e2e8f0; background: linear-gradient(135deg, #0b1020 0%, #111827 100%); border-radius: 18px; padding: 28px 18px 32px; box-shadow: 0 24px 60px rgba(15, 23, 42, 0.65); border: 1px solid rgba(148, 163, 184, 0.18);">
 
   <img src="banner.svg" width="100%" alt="Banner: Data & AI Product Engineering" />
 
-  <!--<h1 align="center" style="margin: 18px 0 10px; font-size: 2.2rem; font-weight: 800; letter-spacing: 0.04em; color: #7dd3fc;">
+  <h1 align="center" style="margin: 18px 0 10px; font-size: 2.2rem; font-weight: 800; letter-spacing: 0.04em; color: #7dd3fc;">
     Jackline Kiptum
-  </h1> -->
+  </h1>
 
   <h3 align="center" style="margin: 0 0 18px; font-size: 1.35rem; color: #cbd5e1;">
     Data & AI Product Engineer
