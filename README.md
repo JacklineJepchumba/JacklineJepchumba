@@ -15,10 +15,10 @@
     My work focuses on end-to-end pipelines, robust data architecture, and practical AI/analytics solutions that create business value.
   </p>
 
-  <p align="center" style="margin: 0 0 24px;">
+ <!-- <p align="center" style="margin: 0 0 24px;">
     <a href="mailto:kiptumjackline77@gmail.com"><img src="contact-mail.svg" width="160" alt="Email" style="filter: drop-shadow(0 8px 18px rgba(59, 130, 246, 0.25));" /></a>
     <a href="https://www.linkedin.com/in/jackline-kiptum-b4a23b2a8/"><img src="contact-linkedin.svg" width="160" alt="LinkedIn" style="filter: drop-shadow(0 8px 18px rgba(59, 130, 246, 0.25));" /></a>
-  </p>
+  </p>-->
 
   <div align="center">
     <img src="h-pipeline.svg" width="100%" alt="Data pipeline overview" />
